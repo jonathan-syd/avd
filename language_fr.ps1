@@ -12,3 +12,4 @@ Set-SystemPreferredUILanguage -Language $LanguageFr
 Set-WinSystemLocale -SystemLocale $LanguageFr
 Set-WinHomeLocation -GeoID 84
 Set-Culture $LanguageFr
+Set-TimeZone -Id "Romance Standard Time"
